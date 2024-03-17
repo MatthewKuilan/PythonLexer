@@ -1,0 +1,6 @@
+1Pencil = 1
+2Pencil = 1Pencil X2
+if 1box is 1 then
+Pencil-box = 2Pencil+ 1box ~ 1Pencil
+else
+print 2Pencil
